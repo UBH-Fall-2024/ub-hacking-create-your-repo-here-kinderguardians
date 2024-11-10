@@ -99,17 +99,9 @@ The API provides several endpoints for text analysis and real-time communication
 - Advanced parental controls
 - Behavioral analysis features
 
-## 📄 License
-
-This project is licensed under the ISC License - see the LICENSE file for details.
-
-## 🤝 Support
-
-For support, email [support@kinderguardians.com](mailto:support@kinderguardians.com) or join our Slack channel.
-
 ---
 
-Built with ❤️ for keeping children safe online.
+Built with ❤️ for keeping children safe.
 ```
 
 This README references several code blocks from the codebase, including:
