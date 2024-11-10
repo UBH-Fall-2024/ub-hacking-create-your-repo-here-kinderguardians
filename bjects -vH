@@ -1,0 +1,37 @@
+[33mcommit c5aeb55d2a8b6a8e7f82e818c0b4ae9723ecc82a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: bhargav2301 <bhargavdvs2001@gmail.com>
+Date:   Sun Nov 10 09:35:40 2024 -0500
+
+    feat: Implement text analysis functionality
+    
+    - Add text analysis UI components
+    - Update Dashboard with results display
+    - Implement Python model integration
+    - Add error handling and loading states
+    - Remove audio processing components
+    - Update API endpoints for text analysis
+    - Add debug logging
+
+[33mcommit 9b20ed85861bc363c490b09dc6716bd4f1c2a932[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: bhargav2301 <bhargavdvs2001@gmail.com>
+Date:   Sat Nov 9 19:24:51 2024 -0500
+
+    Set up project structure
+
+[33mcommit d40afb1782e730316d8571b88b603b859d69ad77[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Sat Nov 9 18:04:44 2024 +0000
+
+    add deadline
+
+[33mcommit 1000b1d00cf712c3064c19ecab04c3c73ede05aa[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Sat Nov 9 18:04:41 2024 +0000
+
+    Setting up GitHub Classroom Feedback
+
+[33mcommit d2967249c1cbd6daaab01d885df79b033d7685ad[m[33m ([m[1;31morigin/feedback[m[33m)[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Sat Nov 9 18:04:41 2024 +0000
+
+    GitHub Classroom Feedback
